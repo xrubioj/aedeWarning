@@ -4,7 +4,7 @@ aedeWarning
 Wordpress plugin that checks if you're visiting the page from Spain and warns you about the new "Google tax" that is beign approved in the country.
 
 LICENSE
-=======
+-------
 
 Copyright 2014-2017 Xavier Rubio Jansana
 
